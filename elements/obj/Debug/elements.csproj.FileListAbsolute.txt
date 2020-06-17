@@ -1,0 +1,12 @@
+C:\Users\User\Desktop\Coding\sTASKedit.Rey35.cs\sTASKedit.Rey35.cs146\elements\bin\Debug\elements.dll
+C:\Users\User\Desktop\Coding\sTASKedit.Rey35.cs\sTASKedit.Rey35.cs146\elements\bin\Debug\elements.pdb
+C:\Users\User\Desktop\Coding\sTASKedit.Rey35.cs\sTASKedit.Rey35.cs146\elements\obj\Debug\elements.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\Coding\sTASKedit.Rey35.cs\sTASKedit.Rey35.cs146\elements\obj\Debug\elements.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Coding\sTASKedit.Rey35.cs\sTASKedit.Rey35.cs146\elements\obj\Debug\elements.dll
+C:\Users\User\Desktop\Coding\sTASKedit.Rey35.cs\sTASKedit.Rey35.cs146\elements\obj\Debug\elements.pdb
+D:\Coding\sTASKedit.Rey35.cs\sTASKedit.Rey35.cs\elements\bin\Debug\elements.dll
+D:\Coding\sTASKedit.Rey35.cs\sTASKedit.Rey35.cs\elements\bin\Debug\elements.pdb
+D:\Coding\sTASKedit.Rey35.cs\sTASKedit.Rey35.cs\elements\obj\Debug\elements.dll
+D:\Coding\sTASKedit.Rey35.cs\sTASKedit.Rey35.cs\elements\obj\Debug\elements.pdb
+D:\Coding\sTASKedit.Rey35.cs\sTASKedit.Rey35.cs\elements\obj\Debug\elements.csprojAssemblyReference.cache
+D:\Coding\sTASKedit.Rey35.cs\sTASKedit.Rey35.cs\elements\obj\Debug\elements.csproj.CoreCompileInputs.cache
